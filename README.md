@@ -1,40 +1,24 @@
-## Hi, I’m Avi 👋
+## hey, i’m avi 👋
 
-I build stuff across verticals.
+i build stuff. ev charging tech, renewable energy, drones, business tools — basically anything that needs building and makes sense to build.
 
-### What I Build
+right now i’m working across:
+- **energy & mobility** — ev charging infrastructure, solar, renewable stuff
+- **autonomous systems** — drones and unmanned platforms
+- **business ops** — distribution management, automation, making things work at scale
+- **whatever else** — if it’s an interesting problem, i’m probably coding something for it
 
-🔌 **Energy & Mobility**  
-EV charging infrastructure, renewable energy systems, and sustainable tech solutions.
+i jump verticals a lot. one day it’s charging infrastructure, next day it’s operational dashboards. that’s just how it works.
 
-☀️ **Renewable Energy**  
-Solar and renewable energy platforms, with a focus on distribution and optimization.
+### stack
 
-🚁 **Autonomous Systems**  
-Drone technology and unmanned aerial systems.
+python, javascript/typescript, go, c++ — whatever fits. backend, frontend, embedded, iot, cloud. full stack because i hate context switching between people.
 
-📦 **Business & Operations**  
-Distribution management systems, business automation tools, and operational platforms. Built systems for FMCG companies and e-commerce logistics.
+### let’s talk
 
-💼 **Enterprise Tools**  
-Code that makes business operations simpler — dashboards, inventory systems, workflow automation, and data management.
-
-### Things I’m Into
-
-- Building end-to-end products across diverse domains
-- Full-stack development (backend, frontend, infrastructure)
-- Systems design and scalability
-- Emerging tech (drones, energy systems, EVs)
-
-### Tech Stack
-
-Python • JavaScript/TypeScript • Go • C++ • Node.js • React • Embedded Systems • IoT • Cloud Infrastructure
-
-### Let’s Build
-
-📧 ak@msinp.com  
-💬 Open to collaboration across any vertical — energy, mobility, logistics, automation, or something entirely new.
+ak@msinp.com  
+always down to collaborate on something interesting — shoot me a line if you’re building something cool.
 
 ---
 
-I just build stuff. Across different spaces, different problems. That’s what I do.
+that’s it, really. i just build stuff.
